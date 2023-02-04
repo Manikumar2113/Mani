@@ -1,0 +1,2 @@
+# Mani
+my first repository
